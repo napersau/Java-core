@@ -1,3 +1,5 @@
+package Variables;
+
 public class Reference {
     String str = "Hello world";
     public void print(){

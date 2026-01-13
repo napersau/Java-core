@@ -1,3 +1,5 @@
+package Variables;
+
 public class Instance {
     private int x;
     public void print(){

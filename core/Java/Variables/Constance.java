@@ -1,3 +1,5 @@
+package Variables;
+
 public class Constance {
 
     final int x = 10;

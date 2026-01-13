@@ -1,3 +1,5 @@
+package Variables;
+
 public class Local {
     public static void print(){
         String str = "Hello world";

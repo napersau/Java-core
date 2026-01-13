@@ -1,3 +1,5 @@
+package Variables;
+
 public class Static {
     static int x;
     public static void print(){
